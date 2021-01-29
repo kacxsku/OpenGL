@@ -1,3 +1,3 @@
 # OpenGL
-####Simple console programs written in c++ with OpenGL
+#### Simple console programs written in c++ with OpenGL
 
